@@ -1,0 +1,33 @@
+<?xml version='1.0' standalone='yes' ?>
+<LVData xmlns="http://www.ni.com/LVData">
+<Version>10.0</Version>
+<Cluster>
+<Name>Properties</Name>
+<NumElts>6</NumElts>
+<Refnum>
+<Name>Имя порта</Name>
+<RefKind>VISA</RefKind>
+<Val>COM6</Val>
+</Refnum>
+<I32>
+<Name>Скорость передачи</Name>
+<Val>16</Val>
+</I32>
+<DBL>
+<Name>Макс скорост двигатенля</Name>
+<Val>720.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Редукция</Name>
+<Val>240.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Разрешение энкодера</Name>
+<Val>4000.00000000000000</Val>
+</DBL>
+<String>
+<Name>Период регистрации</Name>
+<Val>1</Val>
+</String>
+</Cluster>
+</LVData>

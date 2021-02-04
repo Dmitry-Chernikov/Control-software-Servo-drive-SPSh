@@ -1,0 +1,5 @@
+P=P,A=10000
+PCUR=0
+WAIT(dd8=0)
+WAIT(dd7=0)
+HALT
